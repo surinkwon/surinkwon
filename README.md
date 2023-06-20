@@ -19,7 +19,4 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=surinkwon&show_icons=true&theme=radical)
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksrksr15)](https://solved.ac/ksrksr15/)
